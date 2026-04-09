@@ -1,4 +1,4 @@
-# Individual reflection — Nguyễn Văn A (AI20K001)
+# Individual reflection — Trần Trung Hậu - 2A202600317 (AI20K001)
 
 ## 1. Role
 Thiết kế flow chatbot agent, viết và chỉnh sửa tool
@@ -6,6 +6,7 @@ Thiết kế flow chatbot agent, viết và chỉnh sửa tool
 ## 2. Đóng góp cụ thể
 - Thiết kế luồng agent + kết nối các tool.
 - Tạo tool interaction_checker: kiểm tra tương thích của thuốc thay thế đối với đơn thuốc.
+- Tạo tool sửa tên thuốc nếu sai.
 
 ## 3. SPEC mạnh/yếu
 - Mạnh nhất: Tìm thuốc thay thế có hoạt tính tương tự và kiểm tra tính an toàn khi kết hợp trong đơn thuốc.
